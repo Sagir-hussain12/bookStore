@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "story book",
+        "title": "the story of my life",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-psd/open-book-pages-fanned-out-knowledge-wisdom-reading-literature-education_632498-52139.jpg?t=st=1745064831~exp=1745068431~hmac=0439c4cbfd61678e895ff70b4e3eca940c443edde1365ede97fcd732ff423c1b&w=826"
+    },
+    {
+        "id": 2,
+        "name": "novel",
+        "title": "a journey to remember",
+        "price": 15,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-photo/stack-books_144627-42087.jpg"
+    },
+    {
+        "id": 3,
+        "name": "cookbook",
+        "title": "delicious recipes",
+        "price": 25,
+        "category": "Cooking",
+        "image": "https://img.freepik.com/free-photo/cookbook-with-ingredients_144627-42088.jpg"
+    },
+    {
+        "id": 4,
+        "name": "science book",
+        "title": "exploring the universe",
+        "price": 30,
+        "category": "Science",
+        "image": "https://img.freepik.com/free-photo/science-book_144627-42089.jpg"
+    },
+    {
+        "id": 5,
+        "name": "history book",
+        "title": "the ancient world",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/history-book_144627-42090.jpg"
+    },
+    {
+        "id": 6,
+        "name": "children's book",
+        "title": "adventures of tommy",
+        "price": 10,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/children-book_144627-42091.jpg"
+    },
+    {
+        "id": 7,
+        "name": "self-help book",
+        "title": "unlock your potential",
+        "price": 18,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-photo/self-help-book_144627-42092.jpg"
+    },
+    {
+        "id": 8,
+        "name": "travel guide",
+        "title": "explore the world",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/travel-guide_144627-42093.jpg"
+    },
+    {
+        "id": 9,
+        "name": "art book",
+        "title": "masterpieces of art",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/art-book_144627-42094.jpg"
+    },
+    {
+        "id": 10,
+        "name": "poetry book",
+        "title": "verses of the heart",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/poetry-book_144627-42095.jpg"
+    },
+    {
+        "id": 11,
+        "name": "biography",
+        "title": "life of a legend",
+        "price": 28,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-photo/biography-book_144627-42096.jpg"
+    }
+
+]
+
+
+
