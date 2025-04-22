@@ -62,6 +62,8 @@ json
 Technologies Used
 Node.js
 
+# deployed link - https://book-store-tlbs.vercel.app/
+
 Express
 
 MongoDB
