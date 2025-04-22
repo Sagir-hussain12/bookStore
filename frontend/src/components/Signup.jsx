@@ -23,7 +23,7 @@ const Signup = () => {
     };
 
     try {
-      let res =  await axios.post("http://localhost:3000/api/user/signup", userInfo)
+      let res =  await axios.post("https://bookstore-1-138g.onrender.com/api/user/signup", userInfo)
       if (res.data) {
         toast.success("Signup Successfully");
         navigate(from, { replace: true });

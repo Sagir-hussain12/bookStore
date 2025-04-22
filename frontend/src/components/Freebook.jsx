@@ -11,7 +11,7 @@ const Freebook = () => {
 useEffect(() => {
  const getBook = async () => {
 try {
-  const response = await axios.get("http://localhost:3000/api/book")
+  const response = await axios.get("https://bookstore-1-138g.onrender.com/api/book")
   const freebook = response.data.filter((item) => item.category === "Free");
   setBook(freebook)
 } catch (error) {

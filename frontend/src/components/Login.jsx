@@ -16,9 +16,9 @@ const Login = () => {
       email: data.email,
       password: data.password,
     };
-    console.log(userInfo);
+    
     await axios
-      .post("http://localhost:3000/api/user/login", userInfo)
+      .post("https://bookstore-1-138g.onrender.com/api/user/login", userInfo)
       .then((res) => {
         console.log(res.data.user.email);
         if (res.data) {
